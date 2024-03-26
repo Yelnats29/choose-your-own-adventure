@@ -17,4 +17,4 @@ if(action.toUpperCase === 'fight'){
     console.log('You left the area');
 }if(action.toUpperCase === 'go train some more'){
     console.log('You went to find a nice place to train');
-    };
+    }
